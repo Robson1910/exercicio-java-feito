@@ -1,0 +1,5 @@
+Maior elemento: 22
+Menor elemento: -1
+Soma: 113
+Media: 7.0625
+Quantidade numeros pares:  9
